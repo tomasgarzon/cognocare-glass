@@ -82,7 +82,8 @@ public class PatientInfo extends Activity {
         return result;
 
     }
-	
+    
+    
     private class HttpAsyncTask extends AsyncTask<String, Void, String> {
         @Override
         protected String doInBackground(String... urls) {
