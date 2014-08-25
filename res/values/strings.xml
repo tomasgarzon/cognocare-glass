@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cognocare</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="patientinfo">Patient Information</string>
+    <string name="treatment">See Treatment</string>
+    <string name="title_activity_patient_info">PatientInfo</string>
+    <string name="voice_trigger">find a product</string>
+</resources>
